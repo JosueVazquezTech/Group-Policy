@@ -4,7 +4,7 @@
 
 
 <h1>Group Policy and Account Managemet</h1>
-This guide outlines the process for changing group policy within active directory, we will also learn how to lock and unlock accounts and monitor account activity <br />
+This guide outlines the process for changing group policy within Active Directory, we will also learn how to lock and unlock accounts and monitor account activity <br />
 
 
 
