@@ -82,6 +82,8 @@ On the left side, you can open the drop-down menu for Windows log, right-click o
 
 ![Image](https://github.com/user-attachments/assets/c94e9b19-cea0-41d5-8bb8-546a672bd9fa)
 
+Congratulations! Now you can deploy your own Active Directory environment, manage accounts, monitor their activity, and change Group Policies for your users. 
+
 
 
 
