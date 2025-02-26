@@ -24,10 +24,10 @@ This guide outlines the process for changing group policy within active director
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
--Change Policy on account lockout
--Enforce Policy from Command Prompt
--Unlock account and reset passwords
--Check login attempts inside Event Viewer
+- Change Policy on account lockout
+- Enforce Policy from Command Prompt
+- Unlock account and reset passwords
+- Check login attempts inside Event Viewer
 
 
   
