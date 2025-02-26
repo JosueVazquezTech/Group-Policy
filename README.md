@@ -73,8 +73,8 @@ Let's say our user forgot their password but we don't have to unlock the account
 
 ![Image](https://github.com/user-attachments/assets/2e2eab6e-ecfb-4afa-8af0-cc066a4a22c2)
 
-You can also monitor all the login across all the computers and user we have going through our domain. We do this using the Event Viewer tool which you can open through he "Run" program by typing **eventvwr.msc**.
-On the left side you can open the drop-down menu for Windows log, right-click on Security and click Find. Here you can look for a specific user and monitor all the login history. You can also use **cntrl+f** and look for specific events using Event IDs. Some of the most common Event IDs that you can look for are **4625** for Failed logon, **4740** for User account locked out, **4726** for user account deleted.
+You can also monitor the logins across all the computers and users going through our domain. We do this using the Event Viewer tool which you can open through the "Run" program by typing **eventvwr.msc**.
+On the left side, you can open the drop-down menu for Windows log, right-click on Security and click Find. Here you can look for a specific user and monitor all the login history. You can also use **cntrl+f** and look for specific events using Event IDs. Some of the most common Event IDs that you can look for are **4625** for Failed logon, **4740** for User account locked out, **4726** for User account deleted.
 
 ![Image](https://github.com/user-attachments/assets/1f3e769e-9954-4de1-85ef-89a90d78488b)
 
